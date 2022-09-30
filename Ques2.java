@@ -1,3 +1,8 @@
+/*
+ Q2) Using (instance) Method reference create and apply add and subtract method and
+ using (Static) Method reference create and apply multiplication method for the functional interface created
+ */
+
 package exe4;
 
 public class Ques2 {
@@ -14,7 +19,7 @@ public class Ques2 {
 		int b = 20;
 		int sum = a + b;
 		int sub = a - b;
-		System.out.println("Instance add method returns sum:" + sum + "and returns substraction:" + sub);
+		System.out.println("Instance add method returns sum: " + sum + " and returns substraction:" + sub);
 
 	}
 
